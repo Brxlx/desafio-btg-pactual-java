@@ -1,0 +1,31 @@
+.vscode
+
+#Compilation files
+target/
+build/
+*.class
+*.jar
+*.war
+
+#Docs files
+javadoc/
+apidocs/
+
+#Config files
+*.iml
+.classpath
+.project
+
+application.properties
+application.yml
+
+# Cache files
+.idea/
+.metadata/
+.settings/
+
+#Logs files
+logs/
+*.log
+
+.DS_Store
